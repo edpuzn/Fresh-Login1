@@ -1,4 +1,5 @@
 🌟 Modern ve Şık Login & Register Sayfası 🌟
+
 Bu proje, kullanıcı deneyimini ön planda tutarak tasarlanmış bir Giriş ve Kayıt sayfasıdır. Hem estetik hem de fonksiyonel bir yapıya sahip olan bu arayüz, sosyal medya entegrasyonları ve akıcı geçiş animasyonlarıyla desteklenmiştir. 🎨✨
 
 🎯 Başlıca Özellikler
